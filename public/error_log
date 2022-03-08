@@ -1,0 +1,21 @@
+[07-Mar-2022 18:30:09 UTC] PHP Fatal error:  Trait 'Laravel\Sanctum\HasApiTokens' not found in /home/rf6pcgh7yryw/public_html/app/Models/User.php on line 12
+[07-Mar-2022 18:41:10 UTC] PHP Fatal error:  Trait 'Laravel\Sanctum\HasApiTokens' not found in /home/rf6pcgh7yryw/public_html/app/Models/User.php on line 12
+[07-Mar-2022 18:41:21 UTC] PHP Fatal error:  Trait 'Laravel\Sanctum\HasApiTokens' not found in /home/rf6pcgh7yryw/public_html/app/Models/User.php on line 12
+[07-Mar-2022 18:41:30 UTC] PHP Fatal error:  Trait 'Laravel\Sanctum\HasApiTokens' not found in /home/rf6pcgh7yryw/public_html/app/Models/User.php on line 12
+[07-Mar-2022 19:00:51 UTC] PHP Fatal error:  Trait 'App\Models\HasApiTokens' not found in /home/rf6pcgh7yryw/public_html/app/Models/User.php on line 12
+[08-Mar-2022 03:16:09 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/rf6pcgh7yryw/public_html/routes/web.php on line 48
+[08-Mar-2022 03:16:24 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/rf6pcgh7yryw/public_html/routes/web.php on line 48
+[08-Mar-2022 03:16:26 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/rf6pcgh7yryw/public_html/routes/web.php on line 48
+[08-Mar-2022 03:16:46 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/rf6pcgh7yryw/public_html/routes/web.php on line 48
+[08-Mar-2022 03:17:01 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\VerifiesEmails' not found in /home/rf6pcgh7yryw/public_html/app/Http/Controllers/VerificationController.php on line 9
+[08-Mar-2022 03:18:46 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\VerifiesEmails' not found in /home/rf6pcgh7yryw/public_html/app/Http/Controllers/VerificationController.php on line 11
+[08-Mar-2022 03:19:12 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\VerifiesEmails' not found in /home/rf6pcgh7yryw/public_html/app/Http/Controllers/VerificationController.php on line 12
+[08-Mar-2022 03:20:36 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\VerifiesEmails' not found in /home/rf6pcgh7yryw/public_html/app/Http/Controllers/VerificationController.php on line 11
+[08-Mar-2022 03:21:03 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\VerifiesEmails' not found in /home/rf6pcgh7yryw/public_html/app/Http/Controllers/VerificationController.php on line 11
+[08-Mar-2022 03:22:50 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\VerifiesEmails' not found in /home/rf6pcgh7yryw/public_html/app/Http/Controllers/VerificationController.php on line 11
+[08-Mar-2022 03:24:03 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\VerifiesEmails' not found in /home/rf6pcgh7yryw/public_html/app/Http/Controllers/VerificationController.php on line 11
+[08-Mar-2022 03:24:23 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\VerifiesEmails' not found in /home/rf6pcgh7yryw/public_html/app/Http/Controllers/VerificationController.php on line 11
+[08-Mar-2022 03:28:33 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\VerifiesEmails' not found in /home/rf6pcgh7yryw/public_html/app/Http/Controllers/VerificationController.php on line 11
+[08-Mar-2022 03:29:29 UTC] PHP Fatal error:  Trait 'App\Http\Controllers\VerifiesEmails' not found in /home/rf6pcgh7yryw/public_html/app/Http/Controllers/VerificationController.php on line 11
+[08-Mar-2022 03:30:57 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\VerifiesEmails' not found in /home/rf6pcgh7yryw/public_html/app/Http/Controllers/VerificationController.php on line 9
+[08-Mar-2022 03:42:06 UTC] PHP Fatal error:  Trait 'Illuminate\Foundation\VerifiesEmails' not found in /home/rf6pcgh7yryw/public_html/app/Http/Controllers/VerificationController.php on line 9
